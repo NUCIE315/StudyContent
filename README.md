@@ -7,3 +7,7 @@
 |2020年| 张馨月师姐|机器人书法写作|机器人||论文一篇 VISUAL COMPUTER 2019 （CCF C） **[link](https://link.springer.com/article/10.1007/s00371-019-01675-w)**| | |
 |2021年| 吕艳星师姐|三维点云树木分类|点云分类||论文一篇 IEEE Geoscience and Remote Sensing Letters 2021（SCI 二区 CCF C）**[link](https://ieeexplore.ieee.org/document/9353594)**）| | |
 |2021年| 张一大师兄|电力塔点云三维重建|点云重建||发明专利(已授权)：一种基于电力塔点云的规则化建模方法|||
+|2022年| 冯伟桓师兄|稀疏图片树木重建| 图片三维重建||论文在投| ||| 
+|2022年| 陆乐园师兄|树木点云补全| 点云补全||论文在投| |||
+|2022年| 胡龙涛师兄|树的摇曳动画|计算机动画||| |||
+|2023年| 金昊师兄  |机器人绘画|机器人||论文一篇 IEEE Robotics and Automation Letters2023 ICRA(SCI 二区  CCF B)|
